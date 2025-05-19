@@ -52,3 +52,5 @@ CREATE TABLE VENTAS_PRODUCTOS (
 );
 
 /*prueba*/
+
+cosita
