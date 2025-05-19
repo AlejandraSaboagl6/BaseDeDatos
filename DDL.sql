@@ -53,4 +53,8 @@ CREATE TABLE VENTAS_PRODUCTOS (
 
 /*prueba*/
 
+<<<<<<< HEAD
+cosita
+=======
 cosito
+>>>>>>> 0bc6c9344a4542ee0bbf084d188a52b8880145bf
